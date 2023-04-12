@@ -8,4 +8,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Buscador\" />
+    <Folder Include="Filtros\" />
+    <Folder Include="Login\" />
+  </ItemGroup>
+
 </Project>
