@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {}
+    "C:\\projects\\ProyectoFinalDCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {}
   },
   "projects": {
-    "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {
+    "C:\\projects\\ProyectoFinalDCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
+        "projectUniqueName": "C:\\projects\\ProyectoFinalDCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
         "projectName": "ProyectoFinalDCU",
-        "projectPath": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
-        "packagesPath": "C:\\Users\\scris\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\obj\\",
+        "projectPath": "C:\\projects\\ProyectoFinalDCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
+        "packagesPath": "C:\\Users\\donyc\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\ProyectoFinalDCU\\ProyectoFinalDCU\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\scris\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\donyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
