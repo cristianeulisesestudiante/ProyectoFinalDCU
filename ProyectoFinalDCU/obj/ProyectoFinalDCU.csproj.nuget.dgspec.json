@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {}
+    "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-DCU\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {}
   },
   "projects": {
-    "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {
+    "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-DCU\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
+        "projectUniqueName": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-DCU\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
         "projectName": "ProyectoFinalDCU",
-        "projectPath": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
+        "projectPath": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-DCU\\Proyecto Final DCU\\ProyectoFinalDCU\\ProyectoFinalDCU.csproj",
         "packagesPath": "C:\\Users\\scris\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-PROGRAMACION-II\\Proyecto Final DCU\\ProyectoFinalDCU\\obj\\",
+        "outputPath": "D:\\Documentos Generales\\STUDY\\LENGUAJES\\C#\\ITLA_Projects\\AREA-DE-TRABAJO-DCU\\Proyecto Final DCU\\ProyectoFinalDCU\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
