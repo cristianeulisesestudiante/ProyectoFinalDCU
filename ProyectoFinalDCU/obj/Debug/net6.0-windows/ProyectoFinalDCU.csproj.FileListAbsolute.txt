@@ -15,3 +15,22 @@ D:\Documentos Generales\STUDY\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROGRAM
 D:\Documentos Generales\STUDY\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROGRAMACION-II\Proyecto Final DCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.pdb
 D:\Documentos Generales\STUDY\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROGRAMACION-II\Proyecto Final DCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.genruntimeconfig.cache
 D:\Documentos Generales\STUDY\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROGRAMACION-II\Proyecto Final DCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ref\ProyectoFinalDCU.dll
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\net6.0-windows\ProyectoFinalDCU.exe
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\net6.0-windows\ProyectoFinalDCU.deps.json
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\net6.0-windows\ProyectoFinalDCU.runtimeconfig.json
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\net6.0-windows\ProyectoFinalDCU.dll
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\bin\Debug\net6.0-windows\ProyectoFinalDCU.pdb
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.Buscador.Buscador.resources
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.Main.resources
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.csproj.GenerateResource.cache
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.dll
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\refint\ProyectoFinalDCU.dll
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.pdb
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ref\ProyectoFinalDCU.dll
+C:\Users\junio\OneDrive\Datos adjuntos\Documentos\DCU\ProyectoFinalDCU\ProyectoFinalDCU\obj\Debug\net6.0-windows\ProyectoFinalDCU.Properties.Resources.resources
