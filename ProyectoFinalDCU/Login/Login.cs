@@ -27,7 +27,7 @@ namespace ProyectoFinalDCU.Login
             Login login = new Login();
             Registration  registration = new Registration();
             registration.Show();
-            login.Close();
+            this.Hide();
         }
     }
 }
