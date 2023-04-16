@@ -16,5 +16,18 @@ namespace ProyectoFinalDCU.Login
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            Registration  registration = new Registration();
+            registration.Show();
+            login.Close();
+        }
     }
 }

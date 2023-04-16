@@ -24,7 +24,7 @@ namespace ProyectoFinalDCU.Login
 
         private void textIDMatricula_TextChanged(object sender, EventArgs e)
         {
-            textIDMatricula.ForeColor = Color.Black;
+            
         }
 
         private void txtNombre_MouseClick(object sender, MouseEventArgs e)
@@ -34,7 +34,7 @@ namespace ProyectoFinalDCU.Login
 
         private void txtNombre_TextChanged_1(object sender, EventArgs e)
         {
-            txtNombre.ForeColor = Color.Black;
+            
         }
 
         private void txtApellido_MouseClick(object sender, MouseEventArgs e)
@@ -44,12 +44,12 @@ namespace ProyectoFinalDCU.Login
 
         private void txtApellido_TextChanged(object sender, EventArgs e)
         {
-            txtApellido.ForeColor = Color.Black;
+            
         }
 
         private void textCorreo_TextChanged(object sender, EventArgs e)
         {
-            textCorreo.ForeColor = Color.Black;
+            
         }
 
         private void textCorreo_MouseClick(object sender, MouseEventArgs e)
@@ -59,12 +59,37 @@ namespace ProyectoFinalDCU.Login
 
         private void textNumero_TextChanged(object sender, EventArgs e)
         {
-            textNumero.ForeColor = Color.Black;
+            
         }
 
         private void textNumero_MouseClick(object sender, MouseEventArgs e)
         {
             textNumero.Text = "";
+        }
+
+        private void lblRegistrate_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }
